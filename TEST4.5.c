@@ -12,7 +12,7 @@ int main(){
 	time = bits / speed;
 	
 	printf("At %.2f megabits per second , a file of %.2f megabytes \n",speed,bytes);
-	printf("downloads in %.2f seconds.");
+	printf("downloads in %.2f seconds.",time);
 	
 	return 0;
 
