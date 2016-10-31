@@ -7,7 +7,7 @@ int main() {
 	char ch = '!';
 	float f =6.0f;
 	
-	mark(num);
+   	mark(num);
 	mark(ch);
 	mark(f);
 	
